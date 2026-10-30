@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Proyecto 3\EJ12\SIM
+vDisplayLCD
+Z1 IKKHo5?HEd1Mg`Wz`N^WR[2
+Z2 VVV_^C2Cfd:mYIb=jmN8iT3
+Z3 dC:\Proyecto 3\EJ15\SIM
+Z4 w1793330009
+Z5 8C:\Proyecto 3\EJ15\SIM\DisplayLCD.v
+Z6 FC:\Proyecto 3\EJ15\SIM\DisplayLCD.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@display@l@c@d
+!i10b 1
+Z10 !s100 imL8M1JXL`D1W=RGSWlmB2
+!s85 0
+Z11 !s108 1793330072.593000
+Z12 !s107 C:\Proyecto 3\EJ15\SIM\DisplayLCD.v|
+Z13 !s90 -reportprogress|300|-work|work|C:\Proyecto 3\EJ15\SIM\DisplayLCD.v|
+!s101 -O0
+vtb_DisplayLCD
+!i10b 1
+!s100 ALUhaK:nBzKml@ZI3dO8:0
+I=?_F5:LNcVXi3dg[j>6XD0
+V[RPJcWmPB=4SaffB9mZ7j2
+R3
+w1793330032
+8C:\Proyecto 3\EJ15\SIM\tb_DisplayLCD.v
+FC:\Proyecto 3\EJ15\SIM\tb_DisplayLCD.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1793330072.735000
+!s107 C:\Proyecto 3\EJ15\SIM\tb_DisplayLCD.v|
+!s90 -reportprogress|300|-work|work|C:\Proyecto 3\EJ15\SIM\tb_DisplayLCD.v|
+!s101 -O0
+R8
+ntb_@display@l@c@d

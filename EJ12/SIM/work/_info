@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Proyecto 3\EJ1
+vT_FF
+Z1 ImFe>QUUUAz]=F84]jE0Ea3
+Z2 VhC2ldES=7hMER]e_ccJgz2
+Z3 dC:\Proyecto 3\EJ12\SIM
+Z4 w1793323769
+Z5 8C:\Proyecto 3\EJ12\SIM\TcircuitTcircuit.v
+Z6 FC:\Proyecto 3\EJ12\SIM\TcircuitTcircuit.v
+L0 17
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1793323820.395000
+Z9 !s107 C:\Proyecto 3\EJ12\SIM\TcircuitTcircuit.v|
+Z10 !s90 -reportprogress|300|-work|work|C:\Proyecto 3\EJ12\SIM\TcircuitTcircuit.v|
+Z11 o-work work -O0
+Z12 n@t_@f@f
+!i10b 1
+Z13 !s100 Kz:1A@jY=j9MITmn2@md73
+!s85 0
+!s101 -O0
+vTcircuit
+Z14 I2X]@:3YENiXj5``l[V<3W3
+Z15 VbZg8icbjzkC_F[ZCnbz[>2
+R3
+R4
+R5
+R6
+L0 3
+R7
+r1
+31
+R8
+R9
+R10
+R11
+Z16 n@tcircuit
+!i10b 1
+Z17 !s100 ;;49Obei5:2W_P5:7kX[J1
+!s85 0
+!s101 -O0
+vtestTcircuit
+!i10b 1
+!s100 XTiW?cGDoMnB4DCFBhOX03
+I46WfozhgU;:H:OYRQ<hHz0
+VROAo>5h7_`jjETWnN_iP40
+R3
+w1793323807
+8C:\Proyecto 3\EJ12\SIM\testTcircuit.v
+FC:\Proyecto 3\EJ12\SIM\testTcircuit.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1793323820.564000
+!s107 C:\Proyecto 3\EJ12\SIM\testTcircuit.v|
+!s90 -reportprogress|300|-work|work|C:\Proyecto 3\EJ12\SIM\testTcircuit.v|
+!s101 -O0
+R11
+ntest@tcircuit

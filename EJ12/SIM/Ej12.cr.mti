@@ -1,0 +1,16 @@
+{C:/Proyecto 3/EJ12/SIM/TcircuitTcircuit.v} {1 {vlog -work work {C:\Proyecto 3\EJ12\SIM\TcircuitTcircuit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Tcircuit
+-- Compiling module T_FF
+
+Top level modules:
+	Tcircuit
+
+} {} {}} {C:/Proyecto 3/EJ12/SIM/testTcircuit.v} {1 {vlog -work work {C:\Proyecto 3\EJ12\SIM\testTcircuit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testTcircuit
+
+Top level modules:
+	testTcircuit
+
+} {} {}}
